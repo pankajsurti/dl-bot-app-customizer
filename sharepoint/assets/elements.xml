@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="DirectLineBotExtension"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="ae0298aa-8206-438c-8c7f-000ed5d8a5ae"
+        ClientSideComponentProperties="{&quot;BotName&quot;:&quot;HSSC Bot&quot;,&quot;DirectLineSecret&quot;:&quot;kXQzZ4Q25m4.cKs0geZhgYifNyZ_b-csw6RahuD-VJ6vYZyjmhXUMxc&quot;}">
+    </CustomAction>
+</Elements>
