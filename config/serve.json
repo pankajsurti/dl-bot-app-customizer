@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://TENANTNAME.sharepoint.com/sites/TEST/SitePages/BotV4test.aspx",
+      "pageUrl": "https://surtipankaj.sharepoint.com/sites/TEST1/SitePages/testpage.aspx",
       "customActions": {
         "ae0298aa-8206-438c-8c7f-000ed5d8a5ae": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -16,7 +16,7 @@
       }
     },
     "directLineBotExtension": {
-      "pageUrl": "https://TENANTNAME.sharepoint.com/sites/TEST/SitePages/BotV4test.aspx",
+      "pageUrl": "https://surtipankaj.sharepoint.com/sites/TEST1/SitePages/testpage.aspx",
       "customActions": {
         "ae0298aa-8206-438c-8c7f-000ed5d8a5ae": {
           "location": "ClientSideExtension.ApplicationCustomizer",
